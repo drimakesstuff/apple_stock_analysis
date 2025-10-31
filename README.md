@@ -1,6 +1,7 @@
 # 📈 Apple Stock Analysis
 
 Dive into Apple’s historical stock data and uncover insights about its performance, volatility, and market surprises. This project explores stock behavior from 2012 onward using daily prices.
+
 ---
 ## 🔍 Key Analyses
 
@@ -9,6 +10,7 @@ Dive into Apple’s historical stock data and uncover insights about its perform
 - **Volatility**: Check how “wild” the stock gets with a 30-day rolling standard deviation.
 - **Big Spikes**: Highlight days when returns exceed ±2% — major market moves!
 - **Drawdowns**: Identify peak-to-trough losses, showing risk periods.
+  
 ---
 ## 💡 Insights
 
